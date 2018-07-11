@@ -1,6 +1,6 @@
 ## Principal Component Analysis of protein data - ELISA/Luminex
 
-### Syntax: Rscript luminexPCA.R <Input_Luminex_File> Input_Phenotype_File Output_Prefix
+### Syntax: Rscript luminexPCA.R <Input_Luminex_File> <Input_Phenotype_File> <Output_Prefix>
 
 ### Input format Specifications:
 
