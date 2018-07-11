@@ -10,7 +10,7 @@ This includes a matrix of protein concentrations for all samples and analytes to
 
 b) Input Phenotype File
 
-This includes information about sample phenotype. The first column has the sample ID, which should be in the same order as it appears in the Input Luminex File. The second column has information about the group it belongs to. Please use test_phenotype.txt as a template for this file.
+This includes information about sample phenotype. The first column (column name: SampleName) has the sample ID, which should be in the same order as it appears in the Input Luminex File. The second column (column name: Phenotype) has information about the group it belongs to. Please use test_phenotype.txt as a template for this file.
 
 
 
