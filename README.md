@@ -6,10 +6,9 @@
 
 a) Input Luminex File
 
-This includes a matrix of protein concentrations for all samples and analytes to be included in the PCA. Please have the file in the following format:
+This includes a matrix of protein concentrations for all samples and analytes to be included in the PCA. Please have the file in the following format. Please you test_luminex.txt as a template for this file.
 
 b) Input Phenotype File
 
-This includes information about sample phenotype. The first column has the sample ID, which should be in the same order as it appears in the Input Luminex File. The second column has information about the group it belongs to.
-
+This includes information about sample phenotype. The first column has the sample ID, which should be in the same order as it appears in the Input Luminex File. The second column has information about the group it belongs to. Please use test_phenotype.txt as a template for this file.
 
